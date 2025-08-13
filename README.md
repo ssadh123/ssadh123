@@ -30,6 +30,6 @@ I love building data pipelines, analyzing market movements, and turning numbers 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](www.linkedin.com/in/ssadh)
 - [GitHub](https://github.com/ssadh123)
 
