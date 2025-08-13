@@ -1,4 +1,4 @@
-# Saumya Sadh
+# Hi there, I'm Saumya!
 
 🎓 **Mathematics–Computerp-Science & Business Economics @ UC San Diego**  
 📊 **Passionate about Financial Markets, Quantitative Research & Fintech Innovation**
