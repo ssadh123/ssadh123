@@ -1,6 +1,6 @@
 # Hi there, I'm Saumya!
 
-🎓 ** Double Major (BS) Mathematics–Computerp-Science & (BS) Business Economics @ UC San Diego**  
+🎓 **Double Major (BS) Mathematics–Computerp-Science & (BS) Business Economics @ UC San Diego**  
 📊 **Passionate about Financial Markets, Quantitative Research & Fintech Innovation**
 
 ---
