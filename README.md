@@ -2,7 +2,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Math–CS and Business Economics student at UCSD with a passion for:
+I’m a Math–CS and Business Economics student at UCSD 
 
 ---
 
