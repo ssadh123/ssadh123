@@ -2,7 +2,8 @@
 ---
 
 ## 🚀 About Me
-I’m a Math–CS and Business Economics UCSD Alum, Currently taking my time to build and explore all the things I want to. 
+I’m a Math–CS and Business Economics UCSD Alum. 
+Currently taking my time to build and explore all the things I want to. 
 
 ---
 
